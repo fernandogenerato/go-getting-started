@@ -1,0 +1,18 @@
+Name: "Arka"
+Address: "India"
+Phone: 100
+WorkFromHome: true
+Mail: "abc@hotmail.com"
+Internships:
+  - JournalDev
+  - MNO
+  - ABC
+  - XYZ
+Education:
+  MSc: 7.6
+  BSc: 8.1
+  XII: 9
+  Courses:
+    Udemy: 15
+    Coursera: 3
+  References: "Mr. QWERTY, XYZ"
