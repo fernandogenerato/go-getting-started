@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//named return values
 func main() {
 
 	dolarValue, realValue := FinalPrice(525.00)
