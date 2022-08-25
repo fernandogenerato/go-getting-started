@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+//separate arr of numbers by odd and pair using channels
 func main() {
 
 	i, p := make(chan int), make(chan int)
